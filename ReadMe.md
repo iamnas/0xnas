@@ -12,4 +12,7 @@ I specialize in building decentralized applications and smart contracts with a f
 
 ## 📫 How to reach me:
 
+[![GitHub Logo](https://img.shields.io/badge/GitHub-iamnas-181717?style=for-the-badge&logo=github)](https://github.com/iamnas)
+
 - X (Twitter): [@0xnas_eth](https://x.com/0xnas_eth)
+- LinkedIn: [Anaresh Rao](https://www.linkedin.com/in/anareshrao/)
