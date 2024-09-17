@@ -6,8 +6,8 @@ I specialize in building decentralized applications and smart contracts with a f
 
 ## 🛠️ Languages and Tools:
 
-- **Frontend**: React, Next.js
 - **Backend**: Node.js, TypeScript, Prisma
+- **Frontend**: React, Next.js
 - **Blockchain**: Solidity, Solana
 
 ## 📫 How to reach me:
